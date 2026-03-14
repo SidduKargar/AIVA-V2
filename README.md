@@ -41,5 +41,5 @@ In addition, AIVA now integrates **Retrieval-Augmented Generation (RAG)** for mo
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/aiva.git
+git clone https://github.com/yourusername/AIVA-V2.git
 cd aiva
